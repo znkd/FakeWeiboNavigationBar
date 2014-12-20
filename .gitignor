@@ -1,2 +1,5 @@
 #忽略文件
-FakeWeiboNavigationBar.xcodeproj/project.xcworkspace/xcuserdata/
+FakeWeiboNavigationBar/FakeWeiboNavigationBar.xcodeproj/project.xcworkspace/xcuserdata/
+FakeWeiboNavigationBar/FakeWeiboNavigationBar.xcodeproj/project.xcworkspace/xcshareddata/
+FakeWeiboNavigationBar/FakeWeiboNavigationBar.xcodeproj/xcuserdata/
+FakeWeiboNavigationBar/FakeWeiboNavigationBar.xcodeproj/project.xcworkspace/xcuserdata/zhangnan.xcuserdatad/UserInterfaceState.xcuserstate
